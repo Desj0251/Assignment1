@@ -1,0 +1,28 @@
+.header{
+    width:100%;
+    background-color: #4ABDAC;
+    color: #DFDCE3;
+    border-bottom: 0.6rem solid #F7B733;
+}
+h1{
+    padding-top: 15px;
+    text-align: center;
+    text-shadow: 0px 2px 3px #000;
+}
+.nav-menu{
+    width: 100%;
+    padding-bottom: 20px;
+}
+    .nav-menu li{
+        list-style: none;
+        float: left;
+        width: 50%;
+        text-align: center;
+    }
+.list-menu{
+    width:100%;
+    float: right;
+}
+input{
+    display:block;
+}
